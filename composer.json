@@ -1,0 +1,9 @@
+{
+    "name": "juteexj/sayhi-saybye",
+    "description": "test bin files",
+    "require": {}
+    "bin": [
+        "./sayHi",
+        "./sayBye"
+    ]
+}
