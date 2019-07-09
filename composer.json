@@ -1,9 +1,10 @@
 {
     "name": "juteexj/sayhi-saybye",
     "description": "test bin files",
-    "require": {}
+    "keywords": ["hexlet", "php", "composer"],
+    "require": {},
     "bin": [
-        "./sayHi",
-        "./sayBye"
+        "./hello",
+        "./bye"
     ]
 }
